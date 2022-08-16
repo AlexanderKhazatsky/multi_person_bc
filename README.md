@@ -1,2 +1,3 @@
-# multi_person_bc
-A project for improving bc performance when the dataset is collected from multiple different people.
+# bc_repo
+A basic bc_repo for myself :)
+# bc_repo
